@@ -1,0 +1,13 @@
+Jacob Cohen cohen2jl
+questions.txt
+
+1.  What is the difference between an abstract class and an interface in Java? When should I use one versus the other?
+2.  What are the pros and cons of using reflection in Java? How does it impact performance, and are there better alternatives in most cases?
+3.  How does the concept of open recursion (late binding) apply to fields (instance variables) in Java? Why can't we achieve similar polymorphism with fields as we do with methods?
+4.  Could you elaborate on the difference between nominal and structural type equivalency in Java? Are there situations where one is preferred over the other?
+5.  What are some of the advanced features of Java that we didn't cover in this mini-assignment, and how can they enhance the design of object-oriented programs?
+6.  Can you provide more examples of how annotations in Java can help us write safer and more maintainable code?
+7.  How does the Java Virtual Machine (JVM) manage the execution of static methods without an instance of the class?
+8.  What are the best practices for error handling in Java using try-catch blocks? When should we throw exceptions versus handle them silently?
+9.  How does Java's garbage collection mechanism work, and how can we optimize our code to ensure efficient memory management?
+10. What are the main differences between Java's generic types and parametric ADTs in other languages like C++ templates? What are their respective strengths and weaknesses?
